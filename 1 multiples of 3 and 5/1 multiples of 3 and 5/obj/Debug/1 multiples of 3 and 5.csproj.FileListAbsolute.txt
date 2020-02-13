@@ -1,0 +1,6 @@
+C:\Users\sam\OneDrive - Bristol Grammar School\Home\coding\Project Euler\1 multiples of 3 and 5\1 multiples of 3 and 5\bin\Debug\1 multiples of 3 and 5.exe.config
+C:\Users\sam\OneDrive - Bristol Grammar School\Home\coding\Project Euler\1 multiples of 3 and 5\1 multiples of 3 and 5\bin\Debug\1 multiples of 3 and 5.exe
+C:\Users\sam\OneDrive - Bristol Grammar School\Home\coding\Project Euler\1 multiples of 3 and 5\1 multiples of 3 and 5\bin\Debug\1 multiples of 3 and 5.pdb
+C:\Users\sam\OneDrive - Bristol Grammar School\Home\coding\Project Euler\1 multiples of 3 and 5\1 multiples of 3 and 5\obj\Debug\1 multiples of 3 and 5.csprojAssemblyReference.cache
+C:\Users\sam\OneDrive - Bristol Grammar School\Home\coding\Project Euler\1 multiples of 3 and 5\1 multiples of 3 and 5\obj\Debug\1 multiples of 3 and 5.exe
+C:\Users\sam\OneDrive - Bristol Grammar School\Home\coding\Project Euler\1 multiples of 3 and 5\1 multiples of 3 and 5\obj\Debug\1 multiples of 3 and 5.pdb

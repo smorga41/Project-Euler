@@ -1,0 +1,6 @@
+C:\Users\sam\OneDrive - Bristol Grammar School\Home\coding\Project Euler\8 sum square difference\8 sum square difference\obj\Debug\8 sum square difference.csprojAssemblyReference.cache
+C:\Users\sam\OneDrive - Bristol Grammar School\Home\coding\Project Euler\8 sum square difference\8 sum square difference\bin\Debug\8 sum square difference.exe.config
+C:\Users\sam\OneDrive - Bristol Grammar School\Home\coding\Project Euler\8 sum square difference\8 sum square difference\bin\Debug\8 sum square difference.exe
+C:\Users\sam\OneDrive - Bristol Grammar School\Home\coding\Project Euler\8 sum square difference\8 sum square difference\bin\Debug\8 sum square difference.pdb
+C:\Users\sam\OneDrive - Bristol Grammar School\Home\coding\Project Euler\8 sum square difference\8 sum square difference\obj\Debug\8 sum square difference.exe
+C:\Users\sam\OneDrive - Bristol Grammar School\Home\coding\Project Euler\8 sum square difference\8 sum square difference\obj\Debug\8 sum square difference.pdb
